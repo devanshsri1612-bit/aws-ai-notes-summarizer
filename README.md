@@ -98,3 +98,24 @@ AWS Lambda is a serverless compute service provided by Amazon Web Services. It a
 ## Author
 
 Built as an AWS and AI project for learning serverless architecture and generative AI integration.
+
+
+## Project UI
+
+<img width="1908" height="982" alt="Screenshot 2026-03-31 113847" src="https://github.com/user-attachments/assets/5a84ae49-54ff-41e5-9442-0d8fd29948c3" />
+
+
+### UI Preview
+
+The application provides:
+
+- Large notes input area
+- Word count display
+- AI-generated summary output
+- Dark mode toggle
+- Copy summary button
+- Clear notes button
+- Clean and responsive interface
+
+
+
