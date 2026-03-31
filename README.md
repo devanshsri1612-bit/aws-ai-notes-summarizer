@@ -1,4 +1,4 @@
-**#AWS-AI-NOTES-SUMMARIZER****
+**#AWS-AI-NOTES-SUMMARIZER**
 
 AI Notes Summarizer is a web application that summarizes long notes into short and useful points using Amazon Bedrock.
 
