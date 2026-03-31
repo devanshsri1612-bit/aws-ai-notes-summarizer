@@ -1,4 +1,4 @@
-# aws-ai-notes-summarizer
+#**AWS-AI-NOTES-SUMMARIZER**
 AI Notes Summarizer is a web application that summarizes long notes into short and useful points using Amazon Bedrock.
 
 The project uses AWS Lambda for backend processing, API Gateway for API integration, and HTML/CSS/JavaScript for the frontend.
